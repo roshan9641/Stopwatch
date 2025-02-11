@@ -1,5 +1,4 @@
-
-        const countDownElement = document.querySelector("#countDown");
+const countDownElement = document.querySelector("#countDown");
         const resetValueElement = document.querySelector(".resetValue");
         let start = 0;
         let stop = null;
